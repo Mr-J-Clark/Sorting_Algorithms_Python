@@ -1,1 +1,1 @@
-print ("sorting algorithms, selection and bubble!")
+print ("sorting algorithms... selection and bubble!")
